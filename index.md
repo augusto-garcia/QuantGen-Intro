@@ -119,5 +119,8 @@ Some notes on the first slide
   - Breeding values
   - Predict (or explain) genetic gains
 
+---
 
+# Homework
 
+  - Read Chapter 1 of Lynch and Walsh Book
