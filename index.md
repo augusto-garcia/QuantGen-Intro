@@ -137,7 +137,8 @@ Some notes on the first slide
   - Breeding values
   - Predict (or explain) genetic gains
 
----
+
+--- ds:indigo
 
 # Homework
 
