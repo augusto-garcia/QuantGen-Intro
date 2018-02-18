@@ -19,7 +19,7 @@ bootstrap:
 ## Introduction
 
 <small>
-Instructor: [A Augusto F Garcia](http://about.me/augusto.garcia)
+Instructor: [A Augusto F Garcia](http://augustogarcia.me)
 / [Statistical Genetics Lab](http://statgen.esalq.usp.br) </small>
 
 <small>Department of Genetics, Luiz de Queiroz College of Agriculture,
@@ -101,7 +101,7 @@ Some notes on the first slide
     - Genetic uniformity decreases variability (so, traits must have a
       genetic basis)
   - Ehle (1909)
-    - Segregation of 3 loci
+    - Segregation of three loci (large variability)
   - Johannsen (1903, 1909)
     - Genotype and Phenotype
     - Environmental influence on quantitative traits
@@ -109,6 +109,24 @@ Some notes on the first slide
 
 ---
 
+# Modern technologies
+
+## Quantitative Trait Loci (QTL)
+## Genomic Selection
+
+---
+
+## QTL
+
+![](./images/QTL.jpg)
+
+---
+
+## GS
+
+![](./images/GS.jpg)
+
+---
 
 # (Some) Goals of Quantitative Genetics
 
